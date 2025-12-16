@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_layouts",
+  "info": {
+    "displayName": "layout"
+  },
+  "options": {},
+  "attributes": {
+    "element": {
+      "type": "string"
+    },
+    "class": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

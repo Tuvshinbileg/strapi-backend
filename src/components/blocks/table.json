@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_tables",
+  "info": {
+    "displayName": "table",
+    "icon": "database"
+  },
+  "options": {},
+  "attributes": {
+    "source": {
+      "type": "string"
+    },
+    "display": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
