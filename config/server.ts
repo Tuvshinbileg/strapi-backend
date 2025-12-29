@@ -4,4 +4,6 @@ export default ({ env }) => ({
   app: {
     keys: env.array('APP_KEYS'),
   },
+
+  url: env('BASE_URL', 'https://strapi-backend-production-bb55.up.railway.app')
 });
