@@ -8,5 +8,10 @@ export default (config: UserConfig) => {
         '@': '/src',
       },
     },
+    server: {
+      allowedHosts: [
+        'strapi-backend-production-bb55.up.railway.app'
+      ]
+    }
   });
 };
